@@ -1,4 +1,4 @@
-# ![UV Static v2 logp](https://github.com/rhenryw/UV-Static-2.0/blob/31bfc6dab574b4f49a95eb97f675bac7984520fc/active/logo.png)
+# ![UV Static v2 logo](https://github.com/rhenryw/UV-Static-2.0/blob/31bfc6dab574b4f49a95eb97f675bac7984520fc/active/logo.png)
 # UV-Static-2.0
 UV-Static... But WISP and Tabbed!
 </br>
@@ -24,8 +24,8 @@ git clone https://github.com/rhenryw/UV-Static-2.0
 4. Done! You will be able to access the proxy at `/active`. If you change the location of the folder or change the name of the folder you will also have to modify `active/uv/uv.config.js` and `active/scripts/prxy.mjs`. You can change the styles and app at will!
 
 ## or use the buttons below
-
-[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/rhenryw/UV-Static-2.0)
+>
+> [![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/rhenryw/UV-Static-2.0)
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/rhenryw/UV-Static-2.0)
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/rhenryw/UV-Static-2.0)
 [![Deploy to Amplify Console](https://binbashbanana.github.io/deploy-buttons/buttons/remade/amplifyconsole.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/rhenryw/UV-Static-2.0)
@@ -37,6 +37,10 @@ git clone https://github.com/rhenryw/UV-Static-2.0
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/rhenryw/UV-Static-2.0&branch=Main&name=UV-Static-2.0)
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/rhenryw/UV-Static-2.0)
 [![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/rhenryw/UV-Static-2.0)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/rhenryw/UV-Static-2.0?quickstart=1)
+>
+> [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rhenryw/UV-Static-2.0)
+[![Open in Codenywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/rhenryw/UV-Static-2.0)
 
 
 Disclaimer
